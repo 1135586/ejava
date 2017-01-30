@@ -51,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -902,7 +902,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485773669183</updated>
-      <workItem from="1485773670906" duration="2985000" />
+      <workItem from="1485773670906" duration="3054000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1485777035690</created>
@@ -918,11 +918,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485778353568</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="idea_trash">
+      <created>1485778498518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1485778498518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2985000" />
+    <option name="totallyTimeSpent" value="3054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="18" width="1600" height="882" extended-state="6" />
@@ -967,7 +974,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="ide_commit" />
     <MESSAGE value="ide_commit_ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ide_commit_ok" />
+    <MESSAGE value="idea_trash" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea_trash" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -997,7 +1005,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
